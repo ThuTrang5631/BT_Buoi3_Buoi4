@@ -1,0 +1,128 @@
+[
+  {
+    "country": "Philippines",
+    "value": 1379.3,
+    "adj_value": 3038.32204
+  },
+  {
+    "country": "Macau",
+    "value": 1.1,
+    "adj_value": 2.42308
+  },
+  {
+    "country": "China",
+    "value": 3855.7,
+    "adj_value": 8493.33596
+  },
+  {
+    "country": "Korea, South",
+    "value": 5956.3,
+    "adj_value": 13120.53764
+  },
+  {
+    "country": "Hong Kong",
+    "value": 2785.9,
+    "adj_value": 6136.78052
+  },
+  {
+    "country": "Taiwan",
+    "value": 4700,
+    "adj_value": 10353.16
+  },
+  {
+    "country": "Japan",
+    "value": 22630.9,
+    "adj_value": 49851.34652
+  },
+  {
+    "country": "Sweden",
+    "value": 6256.4,
+    "adj_value": 9729.95328
+  },
+  {
+    "country": "Svalbard, Jan Mayen Island",
+    "value": 0.2,
+    "adj_value": 0.31104
+  },
+  {
+    "country": "Norway",
+    "value": 3086.7,
+    "adj_value": 4800.43584
+  },
+  {
+    "country": "Finland",
+    "value": 2269.9,
+    "adj_value": 3530.14848
+  },
+  {
+    "country": "Faroe Islands",
+    "value": 8.4,
+    "adj_value": 13.06368
+  },
+  {
+    "country": "Denmark",
+    "value": 1944.9,
+    "adj_value": 3024.70848
+  },
+  {
+    "country": "United Kingdom",
+    "value": 26929.7,
+    "adj_value": 41881.06944
+  },
+  {
+    "country": "Ireland",
+    "value": 4078.7,
+    "adj_value": 6343.19424
+  },
+  {
+    "country": "Netherlands",
+    "value": 6404.9,
+    "adj_value": 9960.90048
+  },
+  {
+    "country": "Belgium",
+    "value": 6053.9,
+    "adj_value": 9415.02528
+  },
+  {
+    "country": "Luxembourg",
+    "value": 233.8,
+    "adj_value": 363.60576
+  },
+  {
+    "country": "Andorra",
+    "value": 0.2,
+    "adj_value": 0.31104
+  },
+  {
+    "country": "Monaco",
+    "value": 12.2,
+    "adj_value": 18.97344
+  },
+  {
+    "country": "France",
+    "value": 17209.4,
+    "adj_value": 26764.05888
+  },
+  {
+    "country": "Germany",
+    "value": 36843.9,
+    "adj_value": 57299.63328
+  },
+  {
+    "country": "Austria",
+    "value": 1963.2,
+    "adj_value": 3053.16864
+  },
+  {
+    "country": "Czechoslovakia",
+    "value": 0,
+    "adj_value": 0
+  },
+  {
+    "country": "Czech Republic",
+    "value": 363.3,
+    "adj_value": 565.00416
+  }
+  
+]

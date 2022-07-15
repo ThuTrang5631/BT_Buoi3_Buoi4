@@ -1,0 +1,15 @@
+{
+  "name": "bt_backend",
+  "version": "1.0.0",
+  "description": "Trang's server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Trang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
